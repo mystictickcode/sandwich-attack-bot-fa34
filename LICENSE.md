@@ -1,4 +1,4 @@
-# 
+# best Scanner for sandwich attack bot | back-running & honeypot-detection is the best sandwich attack bot, featuring back-running and honeypot-detection. Fast, smart, and optimized
 
 
 
